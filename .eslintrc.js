@@ -36,6 +36,7 @@ module.exports = {
     'prefer-destructuring': 'off',
     'radix': 'off',
     'prefer-template': 'off',
+    'no-else-return': 'off',
   },
   parserOptions: {
     parser: 'babel-eslint',
